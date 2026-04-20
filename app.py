@@ -1,2 +1,2 @@
-# Simple print statement
+
 print("Hello, World!")
